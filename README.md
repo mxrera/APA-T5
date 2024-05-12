@@ -1,6 +1,6 @@
 # Sonido estéreo y ficheros WAVE
 
-## Nom i cognoms
+## Nom i cognoms: Gerard Cots i Escude i Joel Joan Morera Bokobo
 
 ## El formato WAVE
 
